@@ -1,0 +1,4 @@
+name: FuckVolkoff
+version: '1.0-SNAPSHOT'
+main: FuckParty.fuckVolkoff.FuckVolkoff
+api-version: '1.21'

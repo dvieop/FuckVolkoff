@@ -1,0 +1,8 @@
+name: VelocityFeatures
+version: 1.0
+author: Volkoff0
+main: xyz.velocity.VelocityFeatures
+api-version: 1.8.8
+depend:
+  - DecentHolograms
+  - FactionsKore
